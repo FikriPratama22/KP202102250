@@ -1,0 +1,23 @@
+.jumbotron-image {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: auto;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+  padding: 3rem;
+  margin-bottom: 0;
+}
+
+.card-equal-height {
+  display: flex;
+  position: center;
+  flex-direction: column;
+  height: 100%;
+}
+
+

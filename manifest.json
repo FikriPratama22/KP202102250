@@ -1,0 +1,20 @@
+{
+  "name": "E-Madrasah",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f8fcfa",
+  "background_color": "#f8fcfa",
+  "icons": [
+    {
+      "src": "icons/iklas.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/iklas2.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    }
+  ]
+}
